@@ -26,6 +26,11 @@ flowchart LR
     D --> D2[📈 Interactive Dashboard]
     D --> D3[💡 Key Insights]
 ```
+## Links
+- Dataset : <a href ="https://mavenanalytics.io/data-playground/spotify-streaming-history"> </a>
+- Google Sheets : <a href ="https://docs.google.com/spreadsheets/d/1J_yARZRbYppUEj1G6vPTBK6RrSureUaWVMyWr02NvPo/edit?gid=0#gid=0"> </a>
+- PowerBI Dashboard: <a href ="https://app.powerbi.com/groups/me/reports/eea72d93-fd22-4b78-ad34-296d496d038e/7f1f7e6f71bacebc2756?experience=power-bi"> </a>
+
 ## Google Sheets with Gemini AI
 ![Work Overview](https://github.com/ankkona/Spotify-Listening-Insights/blob/main/Google%20Sheets%20with%20Gemini%20AI.png)
 
