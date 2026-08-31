@@ -39,8 +39,7 @@ flowchart LR
 
 ## Key Insights
 
-* **Skip behaviour is strongly linked to playback issues:** Upload-related errors (**15%**) and track errors (**13%**) are the two largest skip drivers, suggesting technical/content availability issues can significantly affect engagement.
-
+* **Skip behaviour is strongly linked to playback issues:** **App Load (15%)** and **track errors (13%)** are the two largest skip drivers, suggesting that **playback and technical issues contribute significantly to skipped tracks**.
 * **Listening engagement peaked around 2020–2021:** Plays reached approximately **55K**, before declining in the following years, indicating a major shift in listening activity over time.
 
 * **Desktop users show stronger attention:** Desktop has a **74% attention rate vs. 50% on mobile**, suggesting users tend to engage more deeply with music on larger-screen devices.
