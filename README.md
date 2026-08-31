@@ -39,16 +39,17 @@ flowchart LR
 
 ## Key Insights
 
-* **App Load (15%)** and **track errors (13%)** are the two largest skip drivers, suggesting that **playback and technical issues contribute significantly to skipped tracks**.
-* ** Plays reached approximately **55K**, before declining in the following years, indicating a major shift in listening activity over time.
+* **App Load (15%)** and **track errors (13%)** are the leading causes of skips, highlighting **playback reliability as a key factor in listener retention**.
 
-* **Desktop** has a **74% attention rate vs. 50% on mobile**, suggesting users tend to engage more deeply with music on larger-screen devices.
+* Listening activity **peaked at around 55K plays in 2020–2021** before declining, indicating a **significant change in overall listening engagement over time**.
 
-* **The Beatles** account for **336+ hours** of listening time, followed by The Killers with **294+ hours**, showing a strong preference for a small group of artists.
+* **Desktop users show a 74% attention rate compared with 50% on mobile**, indicating that **listening sessions on desktop tend to be more engaged**.
 
-* With a **52% completion rate**, nearly half of played tracks are not fully completed, creating an opportunity to investigate what drives early exits.
+* **The Beatles lead with 336+ hours of listening**, followed by **The Killers with 294+ hours**, showing that **listening time is concentrated among a few top artists**.
 
-* ** Friday records the **highest listening activity**, indicating that listening engagement increases toward the end of the workweek.
+* With an overall **52% completion rate**, a substantial share of tracks are left unfinished, pointing to **potential opportunities to improve listener retention**.
+
+* **Friday has the highest listening activity**, suggesting that **engagement increases toward the end of the week**.
 
 ## 💡 What I Learned
 
