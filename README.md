@@ -1,10 +1,10 @@
 # 🎧 Spotify Listening Insights Analysis
 
-## 🎯 Objective
+## Objective
 
-To analyse Spotify listening behaviour and uncover **meaningful patterns in engagement, skipping behaviour, device usage, listening trends, and artist preferences** using data analytics and interactive visualisation.
+This project analyzes Spotify listening behaviour to identify patterns in listener engagement, skip behaviour, device usage, listening trends, and artist preferences, using data cleaning, analysis, and interactive visualisation.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Google Sheets** – Data preparation and initial analysis
 * **Gemini AI** – Assisted data cleaning and analysis within Google Sheets
@@ -12,19 +12,19 @@ To analyse Spotify listening behaviour and uncover **meaningful patterns in enga
 
 ## 🔄 Project Workflow
 
-```mermaid
-flowchart LR
-    A[📊 Maven Analytics Dataset] --> B[📑 Google Sheets]
-    B --> C[🤖 Gemini AI]
-    C --> D[🧹 Data Cleaning & Analysis]
-    D --> E[⬇️ Download Prepared Data]
-    E --> F[📊 Import into Power BI]
-    F --> G[🧮 Create DAX Measures]
-    G --> H[📈 Build Interactive Visualizations]
-    H --> I[🎧 Spotify Insights Dashboard]
-```
+flowchart TD
+    A[Maven Analytics Dataset]
+    B[Google Sheets]
+    C[Gemini AI: Cleaning & Analysis]
+    D[Prepared Dataset]
+    E[Power BI]
+    F[DAX Measures]
+    G[Interactive Visualizations]
+    H[Spotify Insights Dashboard]
 
-## 📸 Dashboard
+    A --> B --> C --> D --> E --> F --> G --> H
+
+## Dashboard
 
 **Dashboard Preview:**
 [View Dashboard Image](YOUR_DASHBOARD_IMAGE_LINK)
@@ -32,7 +32,7 @@ flowchart LR
 **Power BI Dashboard:**
 [View Interactive Dashboard](YOUR_POWER_BI_LINK)
 
-## 🔍 Key Insights
+## Key Insights
 
 * **Skip behaviour is strongly linked to playback issues:** Upload-related errors (**15%**) and track errors (**13%**) are the two largest skip drivers, suggesting technical/content availability issues can significantly affect engagement.
 
