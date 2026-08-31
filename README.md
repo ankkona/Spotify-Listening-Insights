@@ -13,17 +13,18 @@ This project analyzes Spotify listening behaviour to identify patterns in listen
 ## 🔄 Project Workflow
 
 ```mermaid
-flowchart TD
-    A[Maven Analytics Dataset]
-    B[Google Sheets]
-    C[Gemini AI: Cleaning & Analysis]
-    D[Prepared Dataset]
-    E[Power BI]
-    F[DAX Measures]
-    G[Interactive Visualizations]
-    H[Spotify Insights Dashboard]
-
-    A --> B --> C --> D --> E --> F --> G --> H
+flowchart LR
+    A[📊 Maven Analytics Dataset] --> B[📑 Google Sheets + 🤖 Gemini AI]
+    
+    B --> B1[🧹 Data Cleaning]
+    B --> B2[📈 Data Analysis]
+    
+    B --> C[📥 Prepared Dataset]
+    C --> D[📊 Power BI]
+    
+    D --> D1[🧮 DAX Measures]
+    D --> D2[📈 Interactive Dashboard]
+    D --> D3[💡 Key Insights]
 ```
 
 
