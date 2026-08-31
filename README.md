@@ -31,7 +31,7 @@ flowchart LR
 ## Dashboard
 
 **Dashboard Preview:**
-[View Dashboard Image](https://github.com/ankkona/Spotify-Listening-Insights/blob/main/Dashboard.png)
+![Attrition Overview](https://github.com/ankkona/Spotify-Listening-Insights/blob/main/Dashboard.png)
 
 ## Key Insights
 
