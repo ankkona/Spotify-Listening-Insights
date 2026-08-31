@@ -31,10 +31,7 @@ flowchart LR
 ## Dashboard
 
 **Dashboard Preview:**
-[View Dashboard Image](YOUR_DASHBOARD_IMAGE_LINK)
-
-**Power BI Dashboard:**
-[View Interactive Dashboard](YOUR_POWER_BI_LINK)
+[View Dashboard Image](https://github.com/ankkona/Spotify-Listening-Insights/blob/main/Dashboard.png)
 
 ## Key Insights
 
