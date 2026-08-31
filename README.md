@@ -24,6 +24,7 @@ flowchart TD
     H[Spotify Insights Dashboard]
 
     A --> B --> C --> D --> E --> F --> G --> H
+```
 
 
 ## Dashboard
