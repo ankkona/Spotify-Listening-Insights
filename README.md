@@ -12,6 +12,7 @@ This project analyzes Spotify listening behaviour to identify patterns in listen
 
 ## 🔄 Project Workflow
 
+```mermaid
 flowchart TD
     A[Maven Analytics Dataset]
     B[Google Sheets]
@@ -23,6 +24,7 @@ flowchart TD
     H[Spotify Insights Dashboard]
 
     A --> B --> C --> D --> E --> F --> G --> H
+
 
 ## Dashboard
 
