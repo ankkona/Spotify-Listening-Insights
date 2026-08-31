@@ -39,16 +39,16 @@ flowchart LR
 
 ## Key Insights
 
-* **Skip behaviour is strongly linked to playback issues:** **App Load (15%)** and **track errors (13%)** are the two largest skip drivers, suggesting that **playback and technical issues contribute significantly to skipped tracks**.
-* **Listening engagement peaked around 2020–2021:** Plays reached approximately **55K**, before declining in the following years, indicating a major shift in listening activity over time.
+* **App Load (15%)** and **track errors (13%)** are the two largest skip drivers, suggesting that **playback and technical issues contribute significantly to skipped tracks**.
+* ** Plays reached approximately **55K**, before declining in the following years, indicating a major shift in listening activity over time.
 
-* **Desktop users show stronger attention:** Desktop has a **74% attention rate vs. 50% on mobile**, suggesting users tend to engage more deeply with music on larger-screen devices.
+* **Desktop** has a **74% attention rate vs. 50% on mobile**, suggesting users tend to engage more deeply with music on larger-screen devices.
 
-* **Listening is concentrated among a few artists:** The Beatles account for **336+ hours** of listening time, followed by The Killers with **294+ hours**, showing a strong preference for a small group of artists.
+* **The Beatles** account for **336+ hours** of listening time, followed by The Killers with **294+ hours**, showing a strong preference for a small group of artists.
 
-* **Completion leaves room for improvement:** With a **52% completion rate**, nearly half of played tracks are not fully completed, creating an opportunity to investigate what drives early exits.
+* With a **52% completion rate**, nearly half of played tracks are not fully completed, creating an opportunity to investigate what drives early exits.
 
-* **End-of-week listening is strongest:** Friday records the **highest listening activity**, indicating that listening engagement increases toward the end of the workweek.
+* ** Friday records the **highest listening activity**, indicating that listening engagement increases toward the end of the workweek.
 
 ## 💡 What I Learned
 
