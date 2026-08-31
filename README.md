@@ -27,7 +27,7 @@ flowchart LR
     D --> D3[💡 Key Insights]
 ```
 ## Google Sheets with Gemini AI
-!(https://github.com/ankkona/Spotify-Listening-Insights/blob/main/Google%20Sheets%20with%20Gemini%20AI.png)
+![Work Overview](https://github.com/ankkona/Spotify-Listening-Insights/blob/main/Google%20Sheets%20with%20Gemini%20AI.png)
 
 ## Dashboard
 ![Dashboard Overview](https://github.com/ankkona/Spotify-Listening-Insights/blob/main/Dashboard.png)
